@@ -1,0 +1,42 @@
+﻿  pch.cpp
+  ActorReview.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ActorReview.cpp(72,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  BeSued.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\BeSued.cpp(54,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  Delete.cpp
+  Favorite.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\Favorite.cpp(53,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  Insert.cpp
+  ModifyInfo.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ModifyInfo.cpp(65,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ModifyInfo.cpp(108,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ModifyInfo.cpp(108,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ModifyInfo.cpp(108,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\ModifyInfo.cpp(108,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+  MoveOut.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\MoveOut.cpp(61,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\MoveOut.cpp(61,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+  MovieApp.cpp
+  MovieAppDlg.cpp
+  ODBC.cpp
+  Schema.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\Schema.cpp(84,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  Select.cpp
+  Trending.cpp
+  Update.cpp
+  UserSignIn.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\UserSignIn.cpp(76,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\UserSignIn.cpp(76,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\UserSignIn.cpp(76,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\UserSignIn.cpp(76,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\UserSignIn.cpp(76,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+  WIthdrawal.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WIthdrawal.cpp(54,33): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  WriteReview.cpp
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WriteReview.cpp(86,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WriteReview.cpp(134,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WriteReview.cpp(134,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WriteReview.cpp(134,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\jhlee\Desktop\MovieApp\MovieApp\WriteReview.cpp(134,42): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+  코드를 생성하고 있습니다...
+  MovieApp.vcxproj -> C:\Users\jhlee\Desktop\MovieApp\x64\Debug\MovieApp.exe
