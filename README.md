@@ -22,8 +22,6 @@
 
 ## 프로그램 실행 사진
 
----
-
 ### 메인 화면
 
 ![Untitled](DB-MiniProject%200082eb830dc848aa978fa3e09ec09a51/Untitled%201.png)
@@ -37,7 +35,5 @@
 ![Untitled](DB-MiniProject%200082eb830dc848aa978fa3e09ec09a51/Untitled%203.png)
 
 ### 프로그램 실행 방법
-
----
 
 MovieApp.exe 다운 후 실행
